@@ -1,4 +1,4 @@
-# host-it-yourself
+# Host It Yourself
 A list of self-host-able software
 
 # Business Apps
