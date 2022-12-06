@@ -4,7 +4,7 @@ A list of self-host-able software
 # Business Apps
 
 - [The Hive](https://github.com/TheHive-Project/TheHive)
-- [Invoice Plan](https://github.com/InvoicePlane/InvoicePlane)
+- [Invoice Plane](https://github.com/InvoicePlane/InvoicePlane)
 - [Medusa JS](https://github.com/medusajs/medusa)
 - [Moodle](https://github.com/moodle/moodle)
 - [Ghost](https://github.com/TryGhost/Ghost)
